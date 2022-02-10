@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Max</h1>
-<h3 align="left">Results-oriented professional with experience in data visualization, technical support, and business analysis</h3>
+<h1 align="center">Hi 👋, I'm Max</h1>
+<h3 align="center">Results-oriented professional with experience in data visualization, technical support, and business analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkimball14&label=Profile%20views&color=0e75b6&style=flat" alt="mkimball14" /> </p>
 
